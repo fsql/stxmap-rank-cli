@@ -1,6 +1,6 @@
 {
-  "name": "stxmap-plus",
-  "version": "1.0.1",
+  "name": "stxmap-rank-cli",
+  "version": "1.0.6",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kimberlyedwards1014459/stxmap-plus"
+    "url": "https://github.com/fsql/stxmap-rank-cli"
   },
   "keywords": [
     "stxmap"
@@ -16,11 +16,10 @@
   "author": "fsql",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kimberlyedwards1014459/stxmap-plus/issues"
+    "url": "https://github.com/fsql/stxmap-rank-cli/issues"
   },
-  "homepage": "https://github.com/kimberlyedwards1014459/stxmap-plus#readme",
+  "homepage": "https://github.com/fsql/stxmap-rank-cli#readme",
   "dependencies": {
-    "stxmap-address-rank": "^1.0.6",
-	"stxmap-rank-cli": "^1.0.6"
+    "stxmap-address-rank": "^1.0.6"
   }
 }
